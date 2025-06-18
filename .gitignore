@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.env
+*.sqlite3
+
+# VSCode e IDEs
+.vscode/
+.idea/
+
+# Dados e modelos
+*.csv
+*.json
+*.xlsx
+*.pkl
+*.joblib
+*.h5
+models/
+data/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
